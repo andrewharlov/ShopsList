@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopsList</string>
+    <string name="shop_list_activity_title">Shops</string>
+    <string name="call_button_text">Phone Call</string>
+    <string name="need_phone_permission_toast">Phone permission is needed to make a call</string>
+    <string name="permission_not_granted_toast">Permission was not granted</string>
+    <string name="email_button_text">Send Email</string>
+    <string name="website_button_text">Visit Website</string>
+    <string name="open_map_title">Map View</string>
+    <string name="need_fine_location_permission_toast">Fine location permission is needed</string>
+    <string name="need_coarse_location_permission_toast">Coarse location permission is needed</string>
+</resources>
